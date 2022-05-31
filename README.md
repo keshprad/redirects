@@ -13,6 +13,7 @@
 - [email](mailto:keshprad@umd.edu)
 - [linkedin](https://www.linkedin.com/in/keshprad)
 - [github](https://github.com/keshprad/)
+- [leetcode](https://leetcode.com/keshprad/)
 - [devpost](https://devpost.com/keshprad)
 
 #### Socials
