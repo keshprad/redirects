@@ -6,29 +6,31 @@
 
 <hr>
 
-#### Professional
+### Professional
 
 - [portfolio](https://keshprad.github.io/)
-- [resume](https://keshprad.github.io/me/resume.pdf)
+- [resume](https://keshprad.github.io/resume.pdf)
 - [email](mailto:keshprad@umd.edu)
 - [linkedin](https://www.linkedin.com/in/keshprad)
 - [github](https://github.com/keshprad/)
 - [leetcode](https://leetcode.com/keshprad/)
 - [devpost](https://devpost.com/keshprad)
 
-#### Socials
+### Socials
 
 - [instagram](https://www.instagram.com/rkeshprad/)
 - [reddit](https://www.reddit.com/user/keshprad)
-- [facebook](https://www.facebook.com/keshprad/)
 
-#### Organizations
+### Organizations
 
+**Present**
 - [startup-shell](https://startupshell.org/)
+
+**Past**
 - [lhswebdev](https://github.com/lhswebdev)
 - [elevate-the-future](https://github.com/elevate-the-future)
 
-#### Projects
+### Projects (Public)
 
 - [path-visualizer](https://keshprad.github.io/path-visualizer)
 - [best-comeback](https://keshprad.github.io/best-comeback)
