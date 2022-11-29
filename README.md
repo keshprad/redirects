@@ -6,6 +6,9 @@
 
 <hr>
 
+### Writing
+- [writing](https://keshprad.github.io/me/writing)
+
 ### Professional
 
 - [portfolio](https://keshprad.github.io/)
@@ -24,11 +27,12 @@
 ### Organizations
 
 **Present**
-- [startup-shell](https://startupshell.org/)
+- [umd-startup-shell](https://startupshell.org/)
 
 **Past**
-- [lhswebdev](https://github.com/lhswebdev)
-- [elevate-the-future](https://github.com/elevate-the-future)
+- [lhswebdev](https://lhswebdev.github.io/)
+- [elevate-the-future](https://www.elevatethefuture.org/)
+  - [project-falcon](https://www.elevatethefuture.org/projectfalcon)
 
 ### Projects (Public)
 
