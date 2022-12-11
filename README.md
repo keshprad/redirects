@@ -19,11 +19,6 @@
 - [leetcode](https://leetcode.com/keshprad/)
 - [devpost](https://devpost.com/keshprad)
 
-### Socials
-
-- [instagram](https://www.instagram.com/rkeshprad/)
-- [reddit](https://www.reddit.com/user/keshprad)
-
 ### Organizations
 
 **Present**
